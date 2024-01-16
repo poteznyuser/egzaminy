@@ -1,1 +1,1 @@
-# Robię sobię egzaminy ez?
+# Robię sobie egzaminy ez?
