@@ -34,7 +34,7 @@ table {
 td {
     padding: 30px;
     text-align: center;
-    font: bold;
+    font-weight: bold;
 }
 
 a {
@@ -46,6 +46,9 @@ a:hover {
     color: white;
 }
 
-#baner2 {
-    display: inline;
+li {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border-bottom: 1px solid white;
 }
