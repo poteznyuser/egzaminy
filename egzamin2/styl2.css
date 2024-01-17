@@ -1,0 +1,51 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: Linen;
+    color: #222;
+    margin: auto;
+    width: 90%;
+}
+
+#baner1, #baner2 {
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+
+#glowny {
+    padding: 20px;
+    float: left;
+}
+
+#stopka {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+table {
+    margin: 40px;
+}
+
+td {
+    padding: 30px;
+    text-align: center;
+    font: bold;
+}
+
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+#baner2 {
+    display: inline;
+}
